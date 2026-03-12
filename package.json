@@ -1,7 +1,7 @@
 {
-  "name": "lara",
+  "name": "Malakz",
   "version": "4.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "description": "Malakz-MD WhatsApp bot created Sadeesha With using Node.js",
   "main": "Lara.js",
   "scripts": {
     "start": "pm2 start Lara.js --deep-monitoring --attach --name lara",
